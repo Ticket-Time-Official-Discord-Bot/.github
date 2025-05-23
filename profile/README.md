@@ -15,7 +15,7 @@ Copyright 2025 (c) Ticket Time
 <div align="center">
   <!-- Logo or Icon -->
   <a href="https://github.com/Ticket-Time-Official-Discord-Bot">
-    <img src="logo.png" alt="Ticket Time Logo" width="150" height="auto" />
+    <img src="logo.gif" alt="Ticket Time Logo" width="150" height="auto" />
   </a>
   <h1>Ticket Time</h1>
   <!-- Badges -->
