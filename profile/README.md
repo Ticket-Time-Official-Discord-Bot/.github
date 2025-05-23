@@ -39,8 +39,6 @@ Copyright 2025 (c) Ticket Time
 
 **Ticket Time** is a feature-rich support ticket bot designed for Discord servers of all sizes. With support for multiple languages, embed customization, logging, and permission management, it's perfect for communities, projects, and support teams that need a reliable and flexible way to manage requests.
 
-Ticket Time is part of the Skybound suite of bots and tools, built with love to help Discord communities thrive.
-
 <a id="built-with"></a>
 
 ## 🛠️ Built with
