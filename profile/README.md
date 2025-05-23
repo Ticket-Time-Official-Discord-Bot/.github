@@ -24,7 +24,7 @@ Copyright 2025 (c) Ticket Time
       <img src="https://img.shields.io/github/license/MrHarryW/tickettime?style=for-the-badge" alt="License" />
     </a>
     <a href="https://github.com/MrHarryW/tickettime/stargazers">
-      <img src="https://img.shields.io/github/stars/MrHarryW/tickettime?style=for-the-badge" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Ticket-Time-Official-Discord-Bot?style=for-the-badge" alt="Stars" />
     </a>
   </p>
   <!-- Short Description -->
