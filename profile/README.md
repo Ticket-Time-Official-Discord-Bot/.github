@@ -71,3 +71,43 @@ Special thanks to:
 - [SQLModel by Tiangolo](https://sqlmodel.tiangolo.com/)
 - [FastAPI by Tiangolo](https://fastapi.tiangolo.com/)
 - [Vue.js](https://vuejs.org/)
+
+<div align="center">
+  <!-- Logo or Icon -->
+  <a href="https://github.com/Ticket-Time-Official-Discord-Bot">
+    <img src="logo.gif" alt="Ticket Time Logo" width="150" height="auto" />
+  </a>
+  <h1>Ticket Time Contribution Agreement</h1>
+  <!-- Short Description -->
+  <p>
+    If you contribute to Ticket Time you agree to the following.
+  </p>
+  </div>
+1. Ownership and Assignment of Work
+  All code, designs, documentation, ideas, or other contributions ("Work") submitted to the Ticket Time project are the exclusive property of the Project Owner. The Contributor hereby assigns all rights, title, and   interest in the Work to the Project Owner.
+
+2. No Use Outside the Project
+  The Contributor agrees:
+  - Not to use any part of the Ticket Time codebase, assets, or ideas in any external project.
+  - Not to copy, sell, redistribute, or republish the Work or any derivatives outside of the Ticket Time project.
+  - Not to commercialise or relicense any portion of the project unless with written permission from the Project Owner.
+
+3. Confidentiality
+  The Contributor agrees to keep all non-public elements of the Ticket Time project confidential. This includes unreleased features, discussions, files, and internal tools.
+
+4. No Compensation
+  Unless otherwise agreed in writing, the Contributor understands that their contributions are voluntary and they are not entitled to payment or ownership.
+
+5. Credit
+  The Contributor may be acknowledged publicly (e.g., on the website, Discord server, or GitHub repository), but this does not imply ownership or license rights.
+
+6. Termination
+  - The Project Owner may terminate this agreement at any time. Upon termination, the Contributor must:
+  - Stop using any Ticket Time-related materials
+  - Delete or return any copies or proprietary files
+
+7. Legal Protections
+  Breaching this agreement may result in legal consequences, including takedown requests (e.g. DMCA), cease-and-desist notices, or civil action to protect the Project Owner’s rights.
+
+8. Binding Agreement Clause
+  Contributor agrees to be bound by this Agreement even if unsigned, provided they were made aware of these terms.
